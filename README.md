@@ -1,2 +1,2 @@
 # supercrypta.github.io
-site
+Suppor repository
